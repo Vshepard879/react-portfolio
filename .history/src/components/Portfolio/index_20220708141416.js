@@ -34,6 +34,15 @@ function Portfolio() {
 			deployed: 'Backend service with walk-through available on the GitHub repository.',
 		},
 		{
+			name: 'Flash Beats',
+			description:
+				'A clean and accurate way to search for your favorite songs while also displaying the lyrics.',
+			image: 'flash-beats-image.gif',
+			technologies: ['HTML/CSS', 'JavaScript', 'jQuery'],
+			github: 'https://github.com/OwaisIslam/flash-beats',
+			deployed: 'https://teamflash1.github.io/music-app/',
+		},
+		{
 			name: 'Budget Tracker',
 			description:
 				'Budget Tracker is an Application that uses a noSQL database and offline persistance for a great user experience for managing their finances and budgeting no matter where they are.',
@@ -45,8 +54,8 @@ function Portfolio() {
 				'Node.js',
 				'Express',
 			],
-			github: 'https://github.com/Vshepard879/PWA-Budget-Tracker',
-			deployed: ' https://pwa-budget-tracker-vshepard879.herokuapp.com/',
+			github: 'https://github.com/OwaisIslam/budget-tracker',
+			deployed: 'https://budget-tracker-owais.herokuapp.com/',
 		},
 		{
 			name: 'Weather Dashboard',

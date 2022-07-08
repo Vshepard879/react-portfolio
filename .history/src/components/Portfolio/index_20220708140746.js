@@ -34,6 +34,15 @@ function Portfolio() {
 			deployed: 'Backend service with walk-through available on the GitHub repository.',
 		},
 		{
+			name: 'Flash Beats',
+			description:
+				'A clean and accurate way to search for your favorite songs while also displaying the lyrics.',
+			image: 'flash-beats-image.gif',
+			technologies: ['HTML/CSS', 'JavaScript', 'jQuery'],
+			github: 'https://github.com/OwaisIslam/flash-beats',
+			deployed: 'https://teamflash1.github.io/music-app/',
+		},
+		{
 			name: 'Budget Tracker',
 			description:
 				'Budget Tracker is an Application that uses a noSQL database and offline persistance for a great user experience for managing their finances and budgeting no matter where they are.',
@@ -45,8 +54,8 @@ function Portfolio() {
 				'Node.js',
 				'Express',
 			],
-			github: 'https://github.com/Vshepard879/PWA-Budget-Tracker',
-			deployed: ' https://pwa-budget-tracker-vshepard879.herokuapp.com/',
+			github: 'https://github.com/OwaisIslam/budget-tracker',
+			deployed: 'https://budget-tracker-owais.herokuapp.com/',
 		},
 		{
 			name: 'Weather Dashboard',
@@ -63,8 +72,8 @@ function Portfolio() {
 				'This is an application that allows you to generate a password from 8 to 128 characters based on criteria you select.',
 			image: 'password-generator-image.png',
 			technologies: ['HTML/CSS', 'JavaScript'],
-			github: 'https://github.com/Vshepard879/Challenge-3-Password-Generator',
-			deployed: 'https://vshepard879.github.io/Challenge-3-Password-Generator/',
+			github: 'https://github.com/OwaisIslam/password-generator',
+			deployed: 'https://owaisislam.github.io/password-generator/',
 		},
 		{
 			name: 'Note Taker',
@@ -72,8 +81,8 @@ function Portfolio() {
 				'This application allows the user to enter notes and as they save, they appear in the sidebar on the left. Notes can be deleted by clicking the trash can next to the corresponding note.',
 			image: 'note-taker-image.png',
 			technologies: ['HTML/CSS', 'JavaScript', 'Express.js'],
-			github: 'https://github.com/Vshepard879/Note-Taker',
-			deployed: 'https://note-taker-vshepard879.herokuapp.com/notes',
+			github: 'https://github.com/OwaisIslam/note-taker',
+			deployed: 'https://note-taker-owais.herokuapp.com/',
 		},
 	];
 
