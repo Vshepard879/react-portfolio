@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.f432266c.css",
+    "main.js": "/react-portfolio/static/js/main.fe049333.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/living-real-image.png": "/react-portfolio/static/media/living-real-image.3545a96b069d43f52f55.png",
+    "static/media/Vincent'sResume.pdf": "/react-portfolio/static/media/Vincent'sResume.f41a203bb1ce8294ea4d.pdf",
+    "static/media/recent-photo.jpg": "/react-portfolio/static/media/recent-photo.69f4e8b89b0b783f6dc5.jpg",
+    "static/media/weather-dashboard-image.png": "/react-portfolio/static/media/weather-dashboard-image.21fb7069fd46b41ada61.png",
+    "static/media/budget-tracker-image.png": "/react-portfolio/static/media/budget-tracker-image.58cb45d09439671728e0.png",
+    "static/media/flash-beats-image.PNG": "/react-portfolio/static/media/flash-beats-image.ce55d5af687dc2646dd5.PNG",
+    "static/media/auto-tracker-image.png": "/react-portfolio/static/media/auto-tracker-image.d37a58e1acb989f4e2a1.png",
+    "static/media/password-generator-image.png": "/react-portfolio/static/media/password-generator-image.989cc2dfb9156017c12d.png",
+    "static/media/note-taker-image.png": "/react-portfolio/static/media/note-taker-image.704b6d82c169a0e5e3fa.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.f432266c.css.map": "/react-portfolio/static/css/main.f432266c.css.map",
+    "main.fe049333.js.map": "/react-portfolio/static/js/main.fe049333.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f432266c.css",
+    "static/js/main.fe049333.js"
+  ]
+}
