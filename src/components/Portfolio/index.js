@@ -66,7 +66,7 @@ function Portfolio() {
 				'A weather dashboard that shows current weather and five-day weather forecast for any city.',
 			image: 'weather-dashboard-image.png',
 			technologies: ['HTML/CSS', 'JavaScript'],
-			github: 'https://github.com/OwaisIslam/weather-dashboard',
+			github: 'https://github.com/Vshepard879/Weather-Dashboard',
 			deployed: 'https://owaisislam.github.io/weather-dashboard/',
 		},
 		{
