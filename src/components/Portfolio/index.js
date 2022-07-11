@@ -1,7 +1,7 @@
 import React from 'react';
 import Project from '../Project';
 
-function Portfolio() {
+
 	const projects = [
 		{
 			name: 'Rabbit Hole',
@@ -76,7 +76,7 @@ function Portfolio() {
 			deployed: 'https://note-taker-vshepard879.herokuapp.com/notes',
 		},
 	];
-
+	function Portfolio() {
 	return (
 		<section>
 			<div className="center">
