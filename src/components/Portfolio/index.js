@@ -4,9 +4,9 @@ import Project from '../Project';
 function Portfolio() {
 	const projects = [
 		{
-			name: 'Living Real',
+			name: 'Rabbit Hole',
 			description:
-				'This is a property management system that is used by landlords viewing and managing their properties and for tenants to allow for maintenance requests and pay rent.',
+			'This is a tech blog app that I built using handlebars express and Node.js. It is an app that allows users to create, edit, and delete posts. It also allows users to comment on posts.',
 			image: 'living-real-image.png',
 			technologies: [
 				'HTML/CSS',
@@ -17,8 +17,8 @@ function Portfolio() {
 				'React.js',
 				'MERN Stack',
 			],
-			github: 'https://github.com/P3T2-Realty-Rogues/living-real',
-			deployed: 'https://living-real.herokuapp.com/',
+			github: 'https://github.com/beimy/tech-blog',
+			deployed: 'https://therabbithole-blog.herokuapp.com',
 		},
 		{
 			name: 'Auto Tracker',
@@ -37,11 +37,16 @@ function Portfolio() {
 			deployed: 'https://team-3-auto-tracker.herokuapp.com/',
 		},
 		{
-			name: 'Flash Beats',
+			name: 'E-Commerce Backend',
 			description:
-				'A clean and accurate way to search for your favorite songs while also displaying the lyrics.',
+				'A backend development application that creates a database for an e-commerce site that will utilize Object-Relational Mapping to interact with the database. The application is built using best practices from the RESTful CRUD operations concept. This is a command line application to manage an e-commerce database site.',
 			image: 'flash-beats-image.gif',
-			technologies: ['HTML/CSS', 'JavaScript', 'jQuery'],
+			technologies: ['JavaScript',
+			'Node.js',
+			'MYSQL2',
+			'Express & Sequelize',
+			'Nodemon',
+			],
 			github: 'https://github.com/OwaisIslam/flash-beats',
 			deployed: 'https://teamflash1.github.io/music-app/',
 		},
@@ -57,8 +62,8 @@ function Portfolio() {
 				'Node.js',
 				'Express',
 			],
-			github: 'https://github.com/OwaisIslam/budget-tracker',
-			deployed: 'https://budget-tracker-owais.herokuapp.com/',
+			github: 'https://github.com/Vshepard879/PWA-Budget-Tracker',
+			deployed: 'https://pwa-budget-tracker-vshepard879.herokuapp.com/',
 		},
 		{
 			name: 'Weather Dashboard',
@@ -67,7 +72,7 @@ function Portfolio() {
 			image: 'weather-dashboard-image.png',
 			technologies: ['HTML/CSS', 'JavaScript'],
 			github: 'https://github.com/Vshepard879/Weather-Dashboard',
-			deployed: 'https://owaisislam.github.io/weather-dashboard/',
+			deployed: 'https://vshepard879.github.io/Weather-Dashboard/',
 		},
 		{
 			name: 'Password Generator',
@@ -75,8 +80,8 @@ function Portfolio() {
 				'This is an application that allows you to generate a password from 8 to 128 characters based on criteria you select.',
 			image: 'password-generator-image.png',
 			technologies: ['HTML/CSS', 'JavaScript'],
-			github: 'https://github.com/OwaisIslam/password-generator',
-			deployed: 'https://owaisislam.github.io/password-generator/',
+			github: 'https://github.com/Vshepard879/Challenge-3-Password-Generator',
+			deployed: 'hhttps://vshepard879.github.io/Challenge-3-Password-Generator/',
 		},
 		{
 			name: 'Note Taker',
@@ -84,8 +89,8 @@ function Portfolio() {
 				'This application allows the user to enter notes and as they save, they appear in the sidebar on the left. Notes can be deleted by clicking the trash can next to the corresponding note.',
 			image: 'note-taker-image.png',
 			technologies: ['HTML/CSS', 'JavaScript', 'Express.js'],
-			github: 'https://github.com/OwaisIslam/note-taker',
-			deployed: 'https://note-taker-owais.herokuapp.com/',
+			github: 'https://github.com/Vshepard879/Note-Taker',
+			deployed: 'https://note-taker-vshepard879.herokuapp.com/notes',
 		},
 	];
 
